@@ -1,11 +1,11 @@
 {
-  "name": "favico.js",
+  "name": "favico2.js",
   "version": "0.3.10",
   "description": "Favico.js is a library to manipulate the favicon, adding alert badges, render images or videos.",
   "main": "favico.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ejci/favico.js.git"
+    "url": "git://github.com/igfilipovic/favico.js.git"
   },
   "publishConfig": {
     "registry": "http://registry.npmjs.org/"
@@ -14,10 +14,10 @@
     "favicon",
     "badge"
   ],
-  "author": "Miroslav Magda <magda.miroslav@gmail.com>",
-  "license": "MIT or GPL-2.0",
+  "author": "Igor Filipović <igor1982ster@gmail.com>",
+  "license": "MIT OR GPL-2.0",
   "bugs": {
-    "url": "https://github.com/ejci/favico.js/issues"
+    "url": "https://github.com/igfilipovic/favico.js/issues"
   },
   "devDependencies": {
     "uglify-js": "~2.4.0",
@@ -31,9 +31,8 @@
       "page"
     ]
   },
-  "homepage": "https://github.com/ejci/favico.js",
-  "dependencies": {
-  },
+  "homepage": "https://github.com/igfilipovic/favico.js",
+  "dependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
